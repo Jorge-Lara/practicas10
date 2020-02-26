@@ -4,10 +4,10 @@ int main (){
 
 int n1;
 
-printf("INTRODUCE UN NUMERO:");
+printf("introduce un numero:");
 scanf("%d", &n1);
 
 if(n1>100){
-    printf("\nEL NUMERO ES MAYOR QUE 100\n", n1);
+    printf("\nEl numero es mayor que 100\n", n1);
 }
 }
